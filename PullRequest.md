@@ -1,6 +1,11 @@
-Madi Clark		- 
+Madi Clark		-
+\n 
 Nicole Garcia		- 
-Kristopher Graham	- 
-Oscar Holguin		- 
+\n
+Kristopher Graham	-
+\n
+Oscar Holguin		-
+\n
 Nicholas Randall	-
+\n
 Radmes Tirado		-
