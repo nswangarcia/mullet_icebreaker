@@ -1,5 +1,5 @@
 Madi Clark		-
-Nicole Garcia		- 
+Nicole Garcia		- https://github.com/dlsmallw/TeamKuddelmuddel316/pull/3
 Kristopher Graham	-
 Oscar Holguin		-
 Nicholas Randall	-
