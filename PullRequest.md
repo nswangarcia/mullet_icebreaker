@@ -6,6 +6,6 @@ Kristopher Graham	- https://github.com/quintyn/Schweinehund_Spring24A_Icebreaker
 
 Oscar Holguin		- https://github.com/tewen23/fernweh_germanstory/pull/1
 
-Nicholas Randall	-
+Nicholas Randall	- https://github.com/jaquinn5/KaffeeKlatsch_StoryTime/pull/9
 
 Radmes Tirado		-  https://github.com/dlsmallw/TeamKuddelmuddel316/pull/12
