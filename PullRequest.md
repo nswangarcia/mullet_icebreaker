@@ -8,4 +8,4 @@ Oscar Holguin		- https://github.com/tewen23/fernweh_germanstory/pull/1
 
 Nicholas Randall	-
 
-Radmes Tirado		-
+Radmes Tirado		-  https://github.com/dlsmallw/TeamKuddelmuddel316/pull/12
